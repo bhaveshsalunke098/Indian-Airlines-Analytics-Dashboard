@@ -47,12 +47,6 @@ The dashboard allows users to select individual airlines and dynamically explore
 
 ## 🖼️ Dashboard Screenshots
 
-### Dashboard Overview
-
-![Indian Airlines Dashboard](Final%20Template.png)
-
-### Dashboard Visualizations
-
 ![Dashboard Screenshot 1](Screenshot%201.png)
 
 ![Dashboard Screenshot 2](Screenshot%202.png)
